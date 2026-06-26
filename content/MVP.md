@@ -56,10 +56,6 @@ portfolio-psy/
 **Publish Wizard page**
 Clickable link, paste url option
 
-**Remove/Hide advanced settings**
-
-**Keep Github App secret in source or config**
-
 **Site status on setting page UX**
 
 **Remove disconnect github stage in setup wizard**
