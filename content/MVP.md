@@ -60,6 +60,8 @@ Clickable link, paste url option
 
 **Remove disconnect github stage in setup wizard**
 
+**Include link to github action page in the status and upload wizard**
+
 Out of Scope:
 # Premium
 Choose from a few built-in templates
