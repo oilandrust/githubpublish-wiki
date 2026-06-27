@@ -58,6 +58,10 @@ Clickable link, paste url option
 
 **Site status on setting page UX**
 
+**Deprecation of Node 20**
+
+**Action redownload quartz every time**
+
 **Remove disconnect github stage in setup wizard**
 
 **Include link to github action page in the status and upload wizard**
