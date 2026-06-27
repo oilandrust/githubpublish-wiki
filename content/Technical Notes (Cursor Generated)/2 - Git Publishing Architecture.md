@@ -1,6 +1,6 @@
 # Publish Architecture
 
-How the Obsidian plugin should initialize and update a published site. Complements [Publishing Steps Specifications.md](Publishing%20Steps%20Specifications.md) (manual validation on catsnake-web) and [MVP.md](MVP.md) (product goals).
+How the Obsidian plugin should initialize and update a published site. Complements [Publishing Steps Specifications.md](1%20-%20Publishing%20Steps%20Specifications.md) (manual validation on catsnake-web) and [MVP.md](MVP%20Definition%20and%20Scope.md) (product goals).
 
 ## Design goals
 
@@ -401,7 +401,7 @@ Mirror [scripts/lib/scan-content.mjs](../scripts/lib/scan-content.mjs):
 
 ## References
 
-- [Publishing Steps Specifications.md](Publishing%20Steps%20Specifications.md) — validated manual/CI flow
+- [Publishing Steps Specifications.md](1%20-%20Publishing%20Steps%20Specifications.md) — validated manual/CI flow
 - [GitHub Git Database API](https://docs.github.com/en/rest/git)
 - [GitHub Pages REST API](https://docs.github.com/en/rest/pages)
 - [GitHub Actions REST API](https://docs.github.com/en/rest/actions)

@@ -11,6 +11,7 @@ The plugin keeps track of edited notes, lets you know when there are changes, an
 ## How does it work?
 If you are a bit tech-savvy and want to know what you are getting into:
 The plugin automatically creates a repository, uploads the notes, configures the build steps, and sets up GitHub Pages to serve the built site.
+## How about customisation?
 
 
 

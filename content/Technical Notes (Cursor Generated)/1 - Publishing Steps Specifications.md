@@ -2,7 +2,7 @@
 
 Reference implementation: [oilandrust/catsnake-web](https://github.com/oilandrust/catsnake-web) → https://oilandrust.github.io/catsnake-web/
 
-This documents the exact steps validated in June 2026. The Obsidian plugin should automate all of these. See [Publish Architecture.md](Publish%20Architecture.md) for the plugin API and update strategy.
+This documents the exact steps validated in June 2026. The Obsidian plugin should automate all of these. See [Publish Architecture.md](2%20-%20Git%20Publishing%20Architecture.md) for the plugin API and update strategy.
 
 ## Target repository layout
 
@@ -176,7 +176,7 @@ Subsequent deploys may be faster, but the deploy job typically still takes 1–3
 
 ## What the plugin must automate
 
-Mapped to [MVP.md](MVP.md) onboarding:
+Mapped to [MVP.md](MVP%20Definition%20and%20Scope.md) onboarding:
 
 | Step | Manual (catsnake-web) | Plugin should |
 |------|----------------------|---------------|
