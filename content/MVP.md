@@ -69,6 +69,7 @@ Custom CSS
 Page customization by coding agent
 Login from portfolio page, automatic via github login, only for the user
 Subscription on my website
+Set site icon
 
 
 
