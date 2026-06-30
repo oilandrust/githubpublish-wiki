@@ -53,6 +53,8 @@ portfolio-psy/
 
 **Include link to github action page in the status and upload wizard**
 
+**Fix warnings**
+
 Out of Scope:
 **Trim Quartz pluggins**
 # Premium
