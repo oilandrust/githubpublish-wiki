@@ -51,20 +51,16 @@ portfolio-psy/
 
 # Polish List
 
-**Warning** <br>Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/setup-node@v4, actions/upload-artifact@v4. For more information see: [https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/](https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/)|
-
 **Publish Wizard page**
 Clickable link, paste url option
-
-**Site status on setting page UX**
-
-**Deprecation of Node 20**
 
 **Action redownload quartz every time**
 
 **Remove disconnect github stage in setup wizard**
 
 **Include link to github action page in the status and upload wizard**
+
+**Trim Quartz pluggins**
 
 Out of Scope:
 # Premium
