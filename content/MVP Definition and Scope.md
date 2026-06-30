@@ -51,9 +51,6 @@ portfolio-psy/
 
 # Polish List
 
-**Publish Wizard page**
-Clickable link, paste url option
-
 **Include link to github action page in the status and upload wizard**
 
 Out of Scope:
