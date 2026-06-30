@@ -8,10 +8,14 @@ The plugin uses [Quartz](https://quartz.jzhao.xyz/) as a rendering engine and Gi
 - Profit!
 ## Keep track of changes and publish your updated notes
 The plugin keeps track of edited notes, lets you know when there are changes, and lets you publish the latest notes with a click.
+## User Friendly UX
+The plugin is designed to make the process of publishing as smooth as possible and to give you the info you need to know what is going on. Just what you would expect from a modern usable software tool.
 ## How does it work?
 If you are a bit tech-savvy and want to know what you are getting into:
 The plugin automatically creates a repository, uploads the notes, configures the build steps, and sets up GitHub Pages to serve the built site.
-## How about customisation?
+## How about customization?
+You can customize your site.
+## Like the Plug-in or something is missing? -> Get in Touch!
 
 
 
