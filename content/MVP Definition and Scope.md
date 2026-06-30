@@ -54,15 +54,10 @@ portfolio-psy/
 **Publish Wizard page**
 Clickable link, paste url option
 
-**Action redownload quartz every time**
-
-**Remove disconnect github stage in setup wizard**
-
 **Include link to github action page in the status and upload wizard**
 
-**Trim Quartz pluggins**
-
 Out of Scope:
+**Trim Quartz pluggins**
 # Premium
 Choose from a few built-in templates
 Custom CSS
