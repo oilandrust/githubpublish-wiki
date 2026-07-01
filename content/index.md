@@ -35,6 +35,7 @@ Please report issues and bugs on the [GitHub Issue Page](https://github.com/oila
 | ----------------------------------- | ---------------------------------------------------- |
 | **GitHub Publish: Set up site**     | Wizard for a new published site                      |
 | **GitHub Publish: Publish changes** | Push note updates (picks a site if you have several) |
+
 Published sites appear as cards in the plugin settings, each with its own **Publish changes** button and live status. If publish fails with an `UpdateRef` permissions error, disconnect and reconnect GitHub so your token includes the `workflow` scope.
 ## Deleting a published Site
 The Pluggin currently do not implement deletion of site and repository. Please delete the repository on your GitHub account, you can find a link to it in the site status of the puggin settings.
