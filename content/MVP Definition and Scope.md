@@ -4,7 +4,7 @@ Publish your vault for free in 60s
 # Template
 The output should look like Obsidian or Obsidian publish
 On the left a browser with folders and notes, and other files like images that can be viewed in the main document view, skip the right panel, skip search for now
-![[publish-example-dark.png]]
+![[Screenshot 2026-06-30 at 15.59.53.png]]
 # Tech
 Pluggin allow to publish changes: commits to main via GitHub API (see [Publish Architecture.md](2%20-%20Git%20Publishing%20Architecture.md)), triggers GitHub Actions
 Repository contains copy of the published notes + scripts + web template
@@ -39,12 +39,12 @@ portfolio-psy/
 - [x] Define / Refine push / branch / update process → [Publish Architecture.md](2%20-%20Git%20Publishing%20Architecture.md)
 - [x] Build the pluggin prototype and test the whole pipeline
 	- [x] Implement Notes update, page status tracking
-- [ ] Implement Analytics
+- [ ] ~~Implement Analytics~~
 - [ ] Polish
 	- [x] Use Quartz template instead of homemade
 	- [ ] Status UI
-	- [ ] Don't allow to resent publish changes if update is pending
-	- [ ] Content is push, site is building
+	- [x] Don't allow to resent publish changes if update is pending
+	- [x] Content is push, site is building
 	- [ ] Chose files to exclude?
 - [ ] Marketing Strategy
 - [ ] Ship
@@ -54,6 +54,8 @@ portfolio-psy/
 **Include link to github action page in the status and upload wizard**
 
 **Fix warnings**
+
+**Not Desktop Only**
 
 Out of Scope:
 **Trim Quartz pluggins**
