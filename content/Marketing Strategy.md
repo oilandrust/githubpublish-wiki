@@ -25,3 +25,8 @@ GitHub connected
 ~~Second publish~~
 
 https://chatgpt.com/c/6a37dfa4-d194-83eb-9741-8aed7912eb86
+
+# Obsidian Forums:
+### [Developers: Plugin & API](https://forum.obsidian.md/c/developers-api/14)
+
+Read our [Dev Docs](https://docs.obsidian.md/) and talk about the plugin interface and technical stuff while working with Obsidian. If you have questions specifically about the inclusion in the community directory, post in this [Discord forum](https://discord.com/channels/686053708261228577/1514299829474558013). Plugin ideas should be posted [here](https://forum.obsidian.md/c/plugins/10). Completed plugins go in [Share & Showcase](https://forum.obsidian.md/c/share-showcase/9).

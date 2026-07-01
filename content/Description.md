@@ -1,0 +1,1 @@
+Publish your vault in minutes, without the configuration hassle of typical free solutions. The plugin uses Quartz as a rendering engine and GitHub Pages for hosting, and does all the configuration setup for you. Just authenticate with your GitHub Account, then choose the folder you want to publish and the site name, and click 'Publish'. That's it!
