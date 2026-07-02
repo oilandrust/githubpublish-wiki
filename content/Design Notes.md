@@ -1,10 +1,18 @@
 Conversation with ChatGPT
 https://chatgpt.com/c/6a37dfa4-d194-83eb-9741-8aed7912eb86
 
-Competitors:
-- Obsidian Publish
-- Enveloppe
-- Unmarkdown: https://unmarkdown.com/
+Alternatives:
+
+| Tool                    | Type                          |                                                      |
+| ----------------------- | ----------------------------- | ---------------------------------------------------- |
+| Obsidian Publish        | Publishing Platform           |                                                      |
+| Enveloppe               | Publishing Tool               |                                                      |
+| Unmarkdown              | Markdown Converter / Platform |                                                      |
+| flowershow              | Publishing Platform           |                                                      |
+| Quartz Syncer           | Syncing Tool / Plugin         | https://community.obsidian.md/plugins/quartz-syncer  |
+| Verdant                 | Plugin / GitHub hosting       | https://community.obsidian.md/plugins/verdant        |
+| Obsidian Digital Garden |                               | https://github.com/oleeskild/obsidian-digital-garden |
+| Forestry.md             |                               | https://forestry.md/                                 |
 
 Your users are:
 

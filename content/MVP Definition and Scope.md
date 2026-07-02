@@ -53,6 +53,15 @@ portfolio-psy/
 
 **Include link to github action page in the status and upload wizard**
 
+**Wizard**
+Start by selecting folder
+Suggest Site name based on selected folder
+Suggest repository name based on site name
+Enter to continue
+
+Indication about publish time
+link to github actions
+
 **Fix warnings**
 
 **Not Desktop Only**
