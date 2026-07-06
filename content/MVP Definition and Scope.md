@@ -40,29 +40,20 @@ portfolio-psy/
 - [x] Build the pluggin prototype and test the whole pipeline
 	- [x] Implement Notes update, page status tracking
 - [ ] ~~Implement Analytics~~
-- [ ] Polish
+- [x] Polish
 	- [x] Use Quartz template instead of homemade
-	- [ ] Status UI
+	- [x] Status UI
 	- [x] Don't allow to resent publish changes if update is pending
 	- [x] Content is push, site is building
 	- [ ] Chose files to exclude?
-- [ ] Marketing Strategy
-- [ ] Ship
+- [x] Marketing Strategy
+- [x] Ship
 
 # Polish List
 
 **Include link to github action page in the status and upload wizard**
 
-**Wizard**
-Start by selecting folder
-Suggest Site name based on selected folder
-Suggest repository name based on site name
-Enter to continue
-
-Indication about publish time
-link to github actions
-
-**Fix warnings**
+Enter to continue (polish)
 
 **Not Desktop Only**
 

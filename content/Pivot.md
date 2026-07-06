@@ -12,3 +12,11 @@ Collections
 Custom CSS
 AI customisation
 Hosting
+
+# Reddit Market Research Post
+## Should I build this beautiful Portfolio platform/plugin for Obsidian users?
+
+I just wrote a plugin to publish Obsidian vaults on GitHub Pages in 60 seconds.
+It works. Except there are already a bunch of existing products and solutions for publishing notes.
+
+However I don't think there are many tools to build more styled portfolios
