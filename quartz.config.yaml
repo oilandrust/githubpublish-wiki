@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: google
+    tagId: G-EYMBBVDY5
   locale: en-US
   baseUrl: oilandrust.github.io/githubpublish-wiki
   ignorePatterns:
