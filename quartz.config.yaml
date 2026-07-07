@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: google
-    tagId: G-EYMBBVDY5
+    tagId: G-EYMBBVDY5H
   locale: en-US
   baseUrl: oilandrust.github.io/githubpublish-wiki
   ignorePatterns:
