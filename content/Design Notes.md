@@ -13,6 +13,7 @@ Alternatives:
 | Verdant                 | Plugin / GitHub hosting       | https://community.obsidian.md/plugins/verdant        |
 | Obsidian Digital Garden |                               | https://github.com/oleeskild/obsidian-digital-garden |
 | Forestry.md             |                               | https://forestry.md/                                 |
+| VaultFolio              |                               | https://github.com/thedozcompany/VaultFolio          |
 
 Your users are:
 
