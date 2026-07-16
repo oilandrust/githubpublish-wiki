@@ -33,6 +33,7 @@ Read our [Dev Docs](https://docs.obsidian.md/) and talk about the plugin inter
 
 # Data
 
-| Date       | Install | Users |
-| ---------- | ------- | ----- |
-| 2026-07-02 | 37      | 2     |
+| Date       | Install | Users | Publish | Update | Install |
+| ---------- | ------- | ----- | ------- | ------ | ------- |
+| 2026-07-02 | 37      | 2     |         |        |         |
+| 2026-07-15 | 127     | 12    | 15      | 34     | 28      |
