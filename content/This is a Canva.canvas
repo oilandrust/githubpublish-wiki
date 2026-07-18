@@ -11,12 +11,21 @@
     },
     {
       "id": "7ba174d545a67261",
+      "type": "file",
+      "file": "obsidian-github-publish/News.md",
       "x": 100,
       "y": -260,
       "width": 400,
-      "height": 400,
+      "height": 400
+    },
+    {
+      "id": "dd961b2b82f60523",
+      "x": -395,
+      "y": 60,
+      "width": 400,
+      "height": 203,
       "type": "file",
-      "file": "obsidian-github-publish/News.md"
+      "file": "obsidian-github-publish/publish-example-light.png"
     }
   ],
   "edges": [
@@ -27,6 +36,14 @@
       "toNode": "7ba174d545a67261",
       "toSide": "left",
       "label": "Embeding"
+    },
+    {
+      "id": "83425e12bf28d1c6",
+      "fromNode": "1674ef629352c9c8",
+      "fromSide": "bottom",
+      "toNode": "dd961b2b82f60523",
+      "toSide": "top",
+      "label": "Image"
     }
   ]
 }
