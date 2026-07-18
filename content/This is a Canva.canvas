@@ -1,9 +1,32 @@
 {
-	"nodes":[
-		{"id":"1674ef629352c9c8","type":"text","text":"Canvas Are suported","x":-320,"y":-220,"width":250,"height":60},
-		{"id":"7ba174d545a67261","x":100,"y":-260,"width":400,"height":400,"type":"file","file":"obsidian-github-publish/News.md"}
-	],
-	"edges":[
-		{"id":"d23f2a97ade6f26d","fromNode":"1674ef629352c9c8","fromSide":"right","toNode":"7ba174d545a67261","toSide":"left","label":"Embeding"}
-	]
+  "nodes": [
+    {
+      "id": "1674ef629352c9c8",
+      "type": "text",
+      "text": "Canvas Are suported",
+      "x": -320,
+      "y": -220,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "7ba174d545a67261",
+      "x": 100,
+      "y": -260,
+      "width": 400,
+      "height": 400,
+      "type": "file",
+      "file": "obsidian-github-publish/News.md"
+    }
+  ],
+  "edges": [
+    {
+      "id": "d23f2a97ade6f26d",
+      "fromNode": "1674ef629352c9c8",
+      "fromSide": "right",
+      "toNode": "7ba174d545a67261",
+      "toSide": "left",
+      "label": "Embeding"
+    }
+  ]
 }
