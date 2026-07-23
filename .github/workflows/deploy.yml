@@ -22,6 +22,20 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Record site telemetry
+        continue-on-error: true
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            EVENT="update"
+          elif [[ "${{ github.event.head_commit.message }}" == "Initial publish from Obsidian" ]]; then
+            EVENT="publish"
+          else
+            EVENT="update"
+          fi
+          curl -sS -f -X POST "https://github-publish-telemetry.o-rouiller.workers.dev/v1/event" \
+            -H "Content-Type: application/json" \
+            -d "{\"event\":\"$EVENT\"}"
+
       - uses: actions/setup-node@v5
         with:
           node-version: '22'
@@ -46,8 +60,11 @@ jobs:
 
       - name: Overlay user site
         run: |
-          rm -rf quartz-engine/content
-          cp -r content quartz-engine/content
+          # Symlink content + .git so CreatedModifiedDate can read per-file
+          # history from the site repo (a copy would give every file the same mtime).
+          rm -rf quartz-engine/content quartz-engine/.git
+          ln -s "$GITHUB_WORKSPACE/content" quartz-engine/content
+          ln -s "$GITHUB_WORKSPACE/.git" quartz-engine/.git
           cp quartz.config.yaml quartz.lock.json quartz-engine/
 
       - name: Install dependencies
