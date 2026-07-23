@@ -60,11 +60,9 @@ jobs:
 
       - name: Overlay user site
         run: |
-          # Symlink content + .git so CreatedModifiedDate can read per-file
-          # history from the site repo (a copy would give every file the same mtime).
-          rm -rf quartz-engine/content quartz-engine/.git
-          ln -s "$GITHUB_WORKSPACE/content" quartz-engine/content
-          ln -s "$GITHUB_WORKSPACE/.git" quartz-engine/.git
+          # Point Quartz at the site checkout's content via -d so
+          # CreatedModifiedDate discovers the wiki git history (not the engine's).
+          rm -rf quartz-engine/content
           cp quartz.config.yaml quartz.lock.json quartz-engine/
 
       - name: Install dependencies
@@ -79,7 +77,7 @@ jobs:
 
       - name: Build site
         working-directory: quartz-engine
-        run: npx quartz build
+        run: npx quartz build -d "$GITHUB_WORKSPACE/content"
 
       - uses: actions/upload-pages-artifact@v5
         with:
