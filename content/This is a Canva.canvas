@@ -11,12 +11,12 @@
     },
     {
       "id": "dd961b2b82f60523",
+      "type": "file",
+      "file": "Images/publish-example-light.png",
       "x": -395,
       "y": 60,
       "width": 400,
-      "height": 203,
-      "type": "file",
-      "file": "publish-example-light.png"
+      "height": 203
     },
     {
       "id": "7ba174d545a67261",
