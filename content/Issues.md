@@ -1,0 +1,1 @@
+Stale pages after delete: https://oilandrust.github.io/githubpublish-wiki/blog/converting-obsidian-notes-to-web-pages---patterns-and-usages

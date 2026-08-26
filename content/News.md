@@ -1,3 +1,6 @@
+### 2026-08-26: Release 0.1.37
+This release improves the documentation and also explicitly creates an `index.md` file when it is missing, as Quartz expects an `index.md` in the top folder to render the home page.
+In addition, the plugin sets the live URL in the repo's `about` and creates a simple `README.md` linking to the plugin.
 ### 2026-07-23: Release 0.1.35
 This release fixes a few issues, notably that **Canvases** are now rendered properly; they were previously ignored. Also, the modified pages were showing an incorrect date for the **modified date field**. Now the dates correctly show the last time a note was modified, not the last time the site was updated.
 
